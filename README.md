@@ -1,4 +1,4 @@
-![](giphy.com/gifs/4FRegU0rlYldRYOAZK)
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 
 

@@ -1,6 +1,18 @@
 
 # example of the app working
-https://giphy.com/gifs/4FRegU0rlYldRYOAZK
+
+![](https://media.giphy.com/media/4FRegU0rlYldRYOAZK/giphy.gif)
+
+
+
+
+
+
+
+
+
+
+
 
 
 

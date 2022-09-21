@@ -1,4 +1,4 @@
-![alt text](https://giphy.com/gifs/4FRegU0rlYldRYOAZK)
+![](giphy.com/gifs/4FRegU0rlYldRYOAZK)
 
 
 

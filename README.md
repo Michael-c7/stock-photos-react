@@ -1,4 +1,6 @@
-![example of the app working](https://giphy.com/gifs/4FRegU0rlYldRYOAZK)
+
+# example of the app working
+https://giphy.com/gifs/4FRegU0rlYldRYOAZK
 
 
 

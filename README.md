@@ -1,5 +1,5 @@
 
-# example of the app working
+# Example of the app working
 
 ![](https://media.giphy.com/media/4FRegU0rlYldRYOAZK/giphy.gif)
 
